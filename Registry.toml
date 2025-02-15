@@ -3,3 +3,4 @@ uuid = "526a0103-2689-4531-ae83-2b3ee8867ba5"
 repo = "https://github.com/damourChris/DamourLabsRegistry.jl"
 
 [packages]
+1b6eb727-ad4b-44eb-9669-b9596a6e760f = { name = "SwaggerMarkdown", path = "S/SwaggerMarkdown" }
